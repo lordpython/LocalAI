@@ -15,6 +15,6 @@ pypinyin
 cn2an==0.5.22
 networkx==3.4.2
 jieba==0.42.1
-gradio==5.6.0
+gradio==5.7.1
 langid==1.1.6
 llvmlite==0.43.0
