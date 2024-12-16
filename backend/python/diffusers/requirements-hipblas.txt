@@ -1,6 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/rocm6.0
 torch==2.5.1+cu118
-torchvision==0.20.1+cu118
+torchvision==0.20.1+cxx11.abi
 diffusers
 opencv-python
 transformers
