@@ -12,7 +12,7 @@ whisper-timestamped
 openai
 python-dotenv
 pypinyin
-cn2an==0.5.22
+cn2an==0.5.23
 networkx==3.4.2
 jieba==0.42.1
 gradio==5.9.0
